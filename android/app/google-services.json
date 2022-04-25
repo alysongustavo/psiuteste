@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1065736291499",
+    "project_id": "psiuteste-feea4",
+    "storage_bucket": "psiuteste-feea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065736291499:android:477ac99c43a49290e123ee",
+        "android_client_info": {
+          "package_name": "br.com.apptech.psiuteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065736291499-3daefh1acqcmheq3fghohemls18qp7r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEG0IqyBONXBS5oBe2xjJh8HmQYmU83P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065736291499-3daefh1acqcmheq3fghohemls18qp7r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1065736291499-qjbicvj1kekqe621mfv0f3bfb0t7e705.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.psiuteste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
